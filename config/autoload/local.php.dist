@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * Local Configuration Overriding
+ *
+ * This configuration override file is for overriding environment-specific and security-sensitive configuration information.
+ * Copy this file without the .dist extension at the end and populate values as needed
+ * @Note: This file is ignored from GIT by default with the .gitignore included in PhalconSkeleton.
+ */
+
+return [
+    // ...
+];

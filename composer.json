@@ -1,0 +1,21 @@
+{
+    "name": "tmquang6805/phalex-skeleton",
+    "description": "Skeleton Application for building website with Phalex",
+    "type": "project",
+    "keywords": [
+        "phalcon", "skeleton", "phalex"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tran Minh Quang",
+            "email": "tmquang6805@yahoo.com",
+            "homepage": "http://tmquang6805.blogspot.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "ext-phalcon": "~1.3",
+        "tmquang6805/phalex": "~1.0"
+    }
+}
